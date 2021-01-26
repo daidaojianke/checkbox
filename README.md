@@ -81,7 +81,7 @@
 
 </details>
 
-# 支持一下1
+# 支持一下
 
   ![支持一下](https://cdn.jsdelivr.net/gh/Wenmoux/wenpic/qrcode/wx_rewardqrcode.png)
 
