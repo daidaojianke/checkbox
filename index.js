@@ -1,8 +1,8 @@
-      const pingu  = require('./scripts/pingu')
-    //const wpsdaka  = require('./scripts/wps_invite')
+      //const pingu  = require('./scripts/pingu')
+    const wpsdaka  = require('./scripts/wps_invite')
     //const everphoto  = require('./scripts/everphoto')
    
-     signList = [pingu] 
+     signList = [wpsdaka] 
     start(signList)
     async function start(task) {
     console.log('开始签到任务')          
